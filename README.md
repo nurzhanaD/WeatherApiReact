@@ -1,0 +1,1 @@
+Ссылка на API - https://www.npmjs.com/package/openweather-apis
